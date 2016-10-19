@@ -47,7 +47,7 @@
             this.ClientSize = new System.Drawing.Size(663, 600);
             this.Controls.Add(this.pixelsLabel);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Pixel Counter";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.Resize += new System.EventHandler(this.Form1_Resize);
             this.ResumeLayout(false);
